@@ -52,6 +52,16 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				wellness: {
+					blue: 'hsl(var(--wellness-blue))',
+					'blue-light': 'hsl(var(--wellness-blue-light))',
+					orange: 'hsl(var(--wellness-orange))',
+					purple: 'hsl(var(--wellness-purple))'
+				},
+				cosmic: {
+					dark: 'hsl(var(--cosmic-dark))',
+					light: 'hsl(var(--cosmic-light))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
